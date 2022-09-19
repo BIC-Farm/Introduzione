@@ -5,3 +5,4 @@ BIC Farm è il primo mining lab in Italia ad avere inizio dalla prima community 
 
 ## Mission & Vision
 
+Distribuited Minds in each part of Europe
